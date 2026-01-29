@@ -1,5 +1,4 @@
 
-
 ---
 
 # 🏥 Hospital Emergency Room Dashboard
@@ -8,7 +7,15 @@
 
 The **Hospital Emergency Room Dashboard** is an interactive data visualization project designed to analyze and monitor emergency room operations. The dashboard provides meaningful insights into patient flow, waiting times, satisfaction levels, admissions, and department referrals. It helps hospital administrators and decision-makers track performance and improve patient care efficiency.
 
+
 ---
+
+## 🖼 Dashboard Screenshot
+
+This screenshot shows the complete layout and visual structure of the Hospital Emergency Room Dashboard, including key performance indicators, charts, and interactive filters.
+
+![Deshbord](https://github.com/kunalkhapre0/Hospital_Emergency_Room_Dashboard/blob/000f154c35e3b12cad85a95b609d0b6b110f17a6/Hospital%20Dashboard%20Final%20.jpg)
+
 
 ## 🎯 Objectives
 
@@ -58,12 +65,6 @@ The dataset contains emergency room visit records including:
 
 ---
 
-## 🖼 Dashboard Preview
-
-![Hospital Emergency Room Dashboard](Hospital%20Dashboard%20Final.jpg)
-
----
-
 ## 📈 Insights Gained
 
 * Peak patient visits by age group
@@ -73,4 +74,3 @@ The dataset contains emergency room visit records including:
 * Admission rate trends
 
 ---
-
